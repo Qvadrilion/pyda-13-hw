@@ -1,0 +1,80 @@
+
+(base) C:\Users\Сева>jupyter notebook
+[I 12:19:38.983 NotebookApp] JupyterLab extension loaded from D:\Anaconda3\lib\s
+ite-packages\jupyterlab
+[I 12:19:38.983 NotebookApp] JupyterLab application directory is D:\Anaconda3\sh
+are\jupyter\lab
+[I 12:19:38.999 NotebookApp] Serving notebooks from local directory: C:\Users\Се
+ва
+[I 12:19:38.999 NotebookApp] The Jupyter Notebook is running at:
+[I 12:19:38.999 NotebookApp] http://localhost:8888/?token=de4aeef9b771db1ba97f7e
+6c0bf8de349b251a5aab2bdefa
+[I 12:19:38.999 NotebookApp]  or http://127.0.0.1:8888/?token=de4aeef9b771db1ba9
+7f7e6c0bf8de349b251a5aab2bdefa
+[I 12:19:38.999 NotebookApp] Use Control-C to stop this server and shut down all
+ kernels (twice to skip confirmation).
+[C 12:19:39.093 NotebookApp]
+
+    To access the notebook, open this file in a browser:
+        file:///C:/Users/%D0%A1%D0%B5%D0%B2%D0%B0/AppData/Roaming/jupyter/runtim
+e/nbserver-6440-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=de4aeef9b771db1ba97f7e6c0bf8de349b251a5aab2
+bdefa
+     or http://127.0.0.1:8888/?token=de4aeef9b771db1ba97f7e6c0bf8de349b251a5aab2
+bdefa
+
+
+(base) C:\Users\Сева>D:
+
+(base) D:\>DS-17
+"DS-17" не является внутренней или внешней
+командой, исполняемой программой или пакетным файлом.
+
+(base) D:\>cd DS-17
+
+(base) D:\DS-17>jupyter notebook
+[I 12:36:07.565 NotebookApp] JupyterLab extension loaded from D:\Anaconda3\lib\s
+ite-packages\jupyterlab
+[I 12:36:07.565 NotebookApp] JupyterLab application directory is D:\Anaconda3\sh
+are\jupyter\lab
+[I 12:36:07.565 NotebookApp] Serving notebooks from local directory: D:\DS-17
+[I 12:36:07.565 NotebookApp] The Jupyter Notebook is running at:
+[I 12:36:07.565 NotebookApp] http://localhost:8888/?token=549cdadfd5d4ab3379ba42
+639dc1b3db8b162cac62244aa5
+[I 12:36:07.565 NotebookApp]  or http://127.0.0.1:8888/?token=549cdadfd5d4ab3379
+ba42639dc1b3db8b162cac62244aa5
+[I 12:36:07.565 NotebookApp] Use Control-C to stop this server and shut down all
+ kernels (twice to skip confirmation).
+[C 12:36:07.628 NotebookApp]
+
+    To access the notebook, open this file in a browser:
+        file:///C:/Users/%D0%A1%D0%B5%D0%B2%D0%B0/AppData/Roaming/jupyter/runtim
+e/nbserver-6464-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=549cdadfd5d4ab3379ba42639dc1b3db8b162cac622
+44aa5
+     or http://127.0.0.1:8888/?token=549cdadfd5d4ab3379ba42639dc1b3db8b162cac622
+44aa5
+[I 12:38:57.577 NotebookApp] 302 GET /?token=549cdadfd5d4ab3379ba42639dc1b3db8b162cac6224aa5 (::1) 0.
+00ms
+[I 12:38:57.593 NotebookApp] 302 GET /tree?token=549cdadfd5d4ab3379ba42639dc1b3db8b162cac6224aa5 (::1
+) 0.00ms
+[W 12:39:25.109 NotebookApp] 401 POST /login?next=%2Ftree%3Ftoken%3D549cdadfd5d4ab3379ba42639dc1b3db8
+b162cac6224aa5 (::1) 0.00ms referer=http://localhost:8888/login?next=%2Ftree%3Ftoken%3D549cdadfd5d4ab
+3379ba42639dc1b3db8b162cac6224aa5
+[W 12:45:41.302 NotebookApp] 401 POST /login?next=%2Ftree%3Ftoken%3D549cdadfd5d4ab3379ba42639dc1b3db8
+b162cac6224aa5 (::1) 0.00ms referer=http://localhost:8888/login?next=%2Ftree%3Ftoken%3D549cdadfd5d4ab
+3379ba42639dc1b3db8b162cac6224aa5
+[W 12:45:57.734 NotebookApp] 401 POST /login?next=%2Ftree%3Ftoken%3D549cdadfd5d4ab3379ba42639dc1b3db8
+b162cac6224aa5 (::1) 0.00ms referer=http://localhost:8888/login?next=%2Ftree%3Ftoken%3D549cdadfd5d4ab
+3379ba42639dc1b3db8b162cac6224aa5
+
+
+(base) C:\Users\Сева>jupyter notebook list
+Currently running servers:
+http://localhost:8888/?token=4788a16e7ce2191048ae388a767d360ad294a3bdfba027ad :: C:\Users\Сева
+http://localhost:8888/?token=549cdadfd5d4ab3379ba42639dc1b3db8b162cac62244aa5 :: D:\DS-17
+http://localhost:8888/?token=0df7e79191b4230142888bb4d9d3aef5349954c411e82f84 :: C:\Users\Сева
+
+(base) C:\Users\Сева>
